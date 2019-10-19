@@ -152,6 +152,9 @@ h1, h2 {
     width: 30%;
     border-bottom: 1px solid magenta; 
 }*/
+.right-block h2 {
+    margin-left: 0;
+}
 .right-block .list {
     padding: 0 0 23px 0;
     width: 507px;
